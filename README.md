@@ -7,16 +7,8 @@ This repository contains projects of computer vision tasks implemented with __*C
 <table> 
   <tr>
     <td> <img src="/Images/opencv_logo.png" width="150" height="125" alt="opencv_logo" /> </td>
-    <td> <img src="/Images/pcl_logo.png" width="150" height="150" alt="pcl_logo" /> </td>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <td> <img src="/Images/cmake_logo.png" width="200" height="80" alt="cmake_logo" /></td>
-=======
+    <td> <img src="/Images/pcl_logo.png" width="150" height="150" alt="pcl_logo" /> </td>    
     <td> <img src="/Images/cmake_logo.png" width="150" height="80" alt="cmake_logo" /></td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-    <td> <img src="/Images/cmake_logo.png" width="150" height="80" alt="cmake_logo" /></td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
   </tr>
 </table>
 </div>
@@ -68,21 +60,10 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr> 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     <td> <img src="/Images/normals3D.png" width="600" height="100" alt="normals3D" /> </td>
     <td> <img src="/Images/keypoints3D.png" width="600" height="100" alt="keypoints3D" /> </td>
     <td> <img src="/Images/correspondences3D.png" width="600" height="100" alt="correspondences3D" /> </td>
-=======
-    <td> <img src="/Images/normals3D.png" width="250" height="150" alt="normals3D" /> </td>
-    <td> <img src="/Images/keypoints3D.png" width="250" height="150" alt="keypoints3D" /> </td>
-    <td> <img src="/Images/correspondences3D.png" width="250" height="150" alt="correspondences3D" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-    <td> <img src="/Images/normals3D.png" width="250" height="150" alt="normals3D" /> </td>
-    <td> <img src="/Images/keypoints3D.png" width="250" height="150" alt="keypoints3D" /> </td>
-    <td> <img src="/Images/correspondences3D.png" width="250" height="150" alt="correspondences3D" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
   </tr>
 </table>
 </div>
@@ -114,15 +95,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <td> <img src="/Images/depth_rmse.gif" width="150" height="125" alt="depth_rmse" /> </td>
-=======
     <td> <img src="/Images/depth_rmse.gif" width="800" height="400" alt="depth_rmse" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-    <td> <img src="/Images/depth_rmse.gif" width="800" height="400" alt="depth_rmse" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
   </tr>
 </table>
 </div>
@@ -136,15 +109,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr> 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <td> <img src="/Images/fundamental.png" width="600" height="100" alt="fundamental" /> </td>
-=======
     <td> <img src="/Images/fundamental.png" width="800" height="150" alt="fundamental" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-    <td> <img src="/Images/fundamental.png" width="800" height="150" alt="fundamental" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
   </tr>
 </table>
 </div>
@@ -175,15 +140,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr> 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <td> <img src="/Images/sitting_correction.jpg" width="600" height="200" alt="sitting_correction" /> </td>
-=======
     <td> <img src="/Images/sitting_correction.jpg" width="800" height="300" alt="sitting_correction" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-    <td> <img src="/Images/sitting_correction.jpg" width="800" height="300" alt="sitting_correction" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
   </tr>
 </table>
 </div>
@@ -233,15 +190,7 @@ This repository contains projects of computer vision tasks implemented with __*C
 <div align="center">
 <table> 
   <tr>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <td> <img src="/Images/mm_track.gif" width="150" height="125" alt="mm_track" /> </td>
-=======
     <td> <img src="/Images/mm_track.gif" width="800" height="400" alt="mm_track" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-    <td> <img src="/Images/mm_track.gif" width="800" height="400" alt="mm_track" /> </td>
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
   </tr>
 </table>
 </div>
@@ -292,12 +241,4 @@ This repository contains projects of computer vision tasks implemented with __*C
 ## NOTE:
 
 | If you find any of these codes helpful, please share my __[GitHub](https://github.com/LuisOrtizF)__ and __*STAR*__ :star: this repository to help other enthusiasts to find these tools. Remember, the knowledge must be shared. Otherwise, it is useless and lost in time.|
-<<<<<<< HEAD
-<<<<<<< HEAD
 | :----------- |
-=======
-| :----------- |
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
-=======
-| :----------- |
->>>>>>> 8d9c5d33a1929a3762d9aa35ddc31e153e92a908
