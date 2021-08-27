@@ -62,7 +62,7 @@ This repository contains projects of computer vision tasks implemented with __*C
   <tr> 
     <td> <img src="/Images/normals3D.png" width="250" height="150" alt="normals3D" /> </td>
     <td> <img src="/Images/keypoints3D.png" width="250" height="150" alt="keypoints3D" /> </td>
-    <td> <img src="/Images/correspondences3D.png" width="300" height="150" alt="correspondences3D" /> </td>
+    <td> <img src="/Images/correspondences3D.png" width="250" height="150" alt="correspondences3D" /> </td>
   </tr>
 </table>
 </div>
