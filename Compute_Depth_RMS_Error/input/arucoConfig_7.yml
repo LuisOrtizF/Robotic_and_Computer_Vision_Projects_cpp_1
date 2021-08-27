@@ -1,0 +1,21 @@
+%YAML:1.0
+---
+aruco-dictionary: ARUCO_MIP_36h12
+aruco-detectMode: DM_VIDEO_FAST
+aruco-cornerRefinementM: CORNER_SUBPIX
+aruco-thresMethod: THRES_AUTO_FIXED
+aruco-maxThreads: 1
+aruco-borderDistThres: 1.4999999664723873e-02
+aruco-lowResMarkerSize: 20
+aruco-minSize: 1.6993641853332520e-02
+aruco-minSize_pix: -1
+aruco-enclosedMarker: 1
+aruco-NAttemptsAutoThresFix: 3
+aruco-AdaptiveThresWindowSize: -1
+aruco-ThresHold: 108
+aruco-AdaptiveThresWindowSize_range: 0
+aruco-markerWarpPixSize: 5
+aruco-autoSize: 1
+aruco-ts: 3.0000001192092896e-01
+aruco-pyrfactor: 2.
+aruco-error_correction_rate: 0.
